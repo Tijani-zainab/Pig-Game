@@ -18,5 +18,9 @@ Pig-Game is just my project attempt to better my JS skills.
 * The hold button moves your curent score to the global score.
 * Set your final score with the final-score button.
 
+### Update
+* A second dice have been added to enhance seting a much higher final score
+
+
 #### By [Zayne](https://github.com/Tijani-zainab) 👧
 
