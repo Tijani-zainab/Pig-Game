@@ -1,5 +1,5 @@
 # Project Pig-Game📽️
-A javascript built game inspired by my lessons/tutorials. lol its was to learning/perfecting my js skills.
+A javascript built game inspired by my lessons/tutorials. Perfecting my js skills!
 will update this as i add more features, [here's](https://gip-game.netlify.app/) 🔗 the link to play guys!  
 
 ### Written in HTML, CSS, and JS, 
