@@ -1,4 +1,4 @@
-var scores, roundScore, activePlayer, gamePlaying;
+ var scores, roundScore, activePlayer, gamePlaying;
 
 init();   
 
