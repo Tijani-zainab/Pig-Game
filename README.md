@@ -19,7 +19,7 @@ Pig-Game is my project attempt to better my JS skills.
 * Set your final score with the final-score button.
 
 ### Update
-* A second dice have been added to enhance setting a much higher final score
+* A second dice have been added to enhance setting a much higher final
 
 
 #### By [Zayne](https://github.com/Tijani-zainab) 👧
